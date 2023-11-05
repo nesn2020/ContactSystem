@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e944b485-fb41-436f-8fdb-e91661d957a1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2XShhLciONoEDiRpbQfkhKngfLq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\ContactSystem\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Client (1)">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Trible.Client" />
+      <module name="ContactSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Trible.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Double.Client" />
+      <module name="ContactSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Double.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Trible.Server" />
+      <module name="ContactSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Trible.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Double.Server" />
+      <module name="ContactSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Double.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BookSys.testMain" />
+      <module name="ContactSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BookSys.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.Server (1)" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.testMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e944b485-fb41-436f-8fdb-e91661d957a1" name="Default Changelist" comment="" />
+      <created>1698628506102</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698628506102</updated>
+      <workItem from="1698628508825" duration="10250000" />
+      <workItem from="1698720189703" duration="9743000" />
+      <workItem from="1698750768175" duration="8548000" />
+      <workItem from="1698907967260" duration="5794000" />
+      <workItem from="1698916471843" duration="15000" />
+      <workItem from="1699179331662" duration="4219000" />
+      <workItem from="1699185646798" duration="607000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="334" y="88" key="#Project_Structure" timestamp="1698633762322">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="334" y="88" key="#Project_Structure/0.0.1707.1027@0.0.1707.1027" timestamp="1698633762322" />
+    <state x="752" y="452" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1699179559699">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="752" y="452" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1699179559699" />
+    <state x="988" y="292" key="#com.intellij.ide.util.MemberChooser" timestamp="1698729014998">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="659" y="214" key="#com.intellij.ide.util.MemberChooser/0.0.1707.1027@0.0.1707.1027" timestamp="1698637557258" />
+    <state x="988" y="292" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1698729014998" />
+    <state x="1027" y="586" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1698913113083">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1027" y="586" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1698913113083" />
+    <state x="805" y="541" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1698720463058">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="805" y="541" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1698720463058" />
+    <state width="1917" height="451" key="GridCell.Tab.0.bottom" timestamp="1699184889922">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1457" height="317" key="GridCell.Tab.0.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1698759483302" />
+    <state width="1917" height="451" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1699184889922" />
+    <state width="1917" height="451" key="GridCell.Tab.0.center" timestamp="1699184889922">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1457" height="317" key="GridCell.Tab.0.center/0.0.1707.1027@0.0.1707.1027" timestamp="1698759483302" />
+    <state width="1917" height="451" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1699184889922" />
+    <state width="1917" height="451" key="GridCell.Tab.0.left" timestamp="1699184889922">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1457" height="317" key="GridCell.Tab.0.left/0.0.1707.1027@0.0.1707.1027" timestamp="1698759483302" />
+    <state width="1917" height="451" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1699184889922" />
+    <state width="1917" height="451" key="GridCell.Tab.0.right" timestamp="1699184889922">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1457" height="317" key="GridCell.Tab.0.right/0.0.1707.1027@0.0.1707.1027" timestamp="1698759483302" />
+    <state width="1917" height="451" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1699184889922" />
+    <state width="1979" height="225" key="GridCell.Tab.1.bottom" timestamp="1698726035169">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1979" height="225" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1698726035169" />
+    <state width="1979" height="225" key="GridCell.Tab.1.center" timestamp="1698726035169">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1979" height="225" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1698726035169" />
+    <state width="1979" height="225" key="GridCell.Tab.1.left" timestamp="1698726035169">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1979" height="225" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1698726035169" />
+    <state width="1979" height="225" key="GridCell.Tab.1.right" timestamp="1698726035169">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1979" height="225" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1698726035169" />
+    <state x="334" y="88" key="SettingsEditor" timestamp="1698636824169">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="334" y="88" key="SettingsEditor/0.0.1707.1027@0.0.1707.1027" timestamp="1698636824169" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1699180370176">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.2560.1400@0.0.2560.1400" timestamp="1699180370176" />
+    <state x="419" y="318" key="new project wizard" timestamp="1698913249575">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="241" y="123" key="new project wizard/0.0.1707.1027@0.0.1707.1027" timestamp="1698636975475" />
+    <state x="419" y="318" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1698913249575" />
+    <state x="510" y="238" key="run.anything.popup" timestamp="1698632260007">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="510" y="238" key="run.anything.popup/0.0.1707.1027@0.0.1707.1027" timestamp="1698632260007" />
+    <state x="916" y="456" width="672" height="678" key="search.everywhere.popup" timestamp="1699182492301">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="916" y="456" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1699182492301" />
+  </component>
+</project>
